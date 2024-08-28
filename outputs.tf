@@ -1,3 +1,3 @@
 output "id" {
-  value = data.azurerm_resource_group.main.id
+  value = data.azurerm_resource_group.example.id
 }
